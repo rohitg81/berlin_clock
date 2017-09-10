@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.ubs.opsit.interviews.BerlinClockTest" tests="16" skipped="0" failures="0" errors="0" timestamp="2017-09-10T14:37:48" hostname="DESKTOP-A16IG0V" time="0.015">
+  <properties/>
+  <testcase name="testMinuteBottomAllOn" classname="com.ubs.opsit.interviews.BerlinClockTest" time="0.0"/>
+  <testcase name="testBottomHourAllOff" classname="com.ubs.opsit.interviews.BerlinClockTest" time="0.0"/>
+  <testcase name="testClockTopIsOff" classname="com.ubs.opsit.interviews.BerlinClockTest" time="0.0"/>
+  <testcase name="testTopHourPartFirstTwoOn" classname="com.ubs.opsit.interviews.BerlinClockTest" time="0.0"/>
+  <testcase name="testClockTopIsOn" classname="com.ubs.opsit.interviews.BerlinClockTest" time="0.0"/>
+  <testcase name="testClockPartLengths" classname="com.ubs.opsit.interviews.BerlinClockTest" time="0.0"/>
+  <testcase name="testTopHourPartAllOn" classname="com.ubs.opsit.interviews.BerlinClockTest" time="0.0"/>
+  <testcase name="testTopHourPartAllOff" classname="com.ubs.opsit.interviews.BerlinClockTest" time="0.0"/>
+  <testcase name="testBottomHourAllOn" classname="com.ubs.opsit.interviews.BerlinClockTest" time="0.0"/>
+  <testcase name="testMinuteBottomFirstThreeOn" classname="com.ubs.opsit.interviews.BerlinClockTest" time="0.0"/>
+  <testcase name="testBottomHourFirstThreeOn" classname="com.ubs.opsit.interviews.BerlinClockTest" time="0.0"/>
+  <testcase name="testMinuteBottomAllOff" classname="com.ubs.opsit.interviews.BerlinClockTest" time="0.0"/>
+  <testcase name="testMinuteHourFirstEightOn" classname="com.ubs.opsit.interviews.BerlinClockTest" time="0.0"/>
+  <testcase name="testMinuteHourFirstThreeOn" classname="com.ubs.opsit.interviews.BerlinClockTest" time="0.0"/>
+  <testcase name="testMinuteHourAllOff" classname="com.ubs.opsit.interviews.BerlinClockTest" time="0.0"/>
+  <testcase name="testTopHourPartFirstThreeOn" classname="com.ubs.opsit.interviews.BerlinClockTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
